@@ -80,83 +80,83 @@ var friends = [
     ]
 },
 {
-  "name":"Ahmed",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Justin",
+  "photo":"https://randomuser.me/api/portraits/men/67.jpg",
   "scores":[
-      5,
-      1,
-      4,
-      4,
-      5,
-      1,
+      4, 
+      4, 
+      1, 
       2,
+      3,
+      1, 
+      4, 
+      3, 
+      4, 
+      3
+    ]
+},
+{
+  "name":"Lindsey",
+  "photo":"https://randomuser.me/api/portraits/women/36.jpg",
+  "scores":[
+      5, 
+      5, 
+      4, 
+      5, 
       5,
-      4,
+      5, 
+      5, 
+      3, 
+      1, 
+      2
+    ]
+},
+{
+  "name":"Candace",
+  "photo":"https://randomuser.me/api/portraits/women/88.jpg",
+  "scores":[
+      1, 
+      2, 
+      4, 
+      4, 
+      1,
+      4, 
+      3, 
+      5, 
+      1, 
       1
     ]
 },
 {
-  "name":"Ahmed",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Jim",
+  "photo":"https://randomuser.me/api/portraits/men/58.jpg",
   "scores":[
-      5,
+      3, 
+      5, 
+      1, 
+      2, 
       1,
-      4,
-      4,
-      5,
-      1,
-      2,
-      5,
-      4,
-      1
+      3, 
+      2, 
+      2, 
+      1, 
+      5
     ]
 },
 {
-  "name":"Ahmed",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Pam",
+  "photo":"https://randomuser.me/api/portraits/women/47.jpg",
   "scores":[
-      5,
+      3, 
+      4, 
+      2, 
+      1, 
       1,
-      4,
-      4,
-      5,
-      1,
-      2,
-      5,
-      4,
-      1
-    ]
-},
-{
-  "name":"Ahmed",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-  "scores":[
-      5,
-      1,
-      4,
-      4,
-      5,
-      1,
-      2,
-      5,
-      4,
-      1
-    ]
-},
-{
-  "name":"Ahmed",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-  "scores":[
-      5,
-      1,
-      4,
-      4,
-      5,
-      1,
-      2,
-      5,
-      4,
-      1
+      3, 
+      2, 
+      1, 
+      1, 
+      4
     ]
 }
 ];
