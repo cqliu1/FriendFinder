@@ -1,7 +1,164 @@
-var Friend = function(name, photo, scores) {
-	this.name = name;
-	this.photo = photo;
-	this.scores = scores;
+var friends = [
+{
+  "name":"Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
+{
+  "name":"Jason",
+  "photo":"https://randomuser.me/api/portraits/men/79.jpg",
+  "scores":[
+      5, 
+      2, 
+      4, 
+      1, 
+      5,
+      2, 
+      2, 
+      3, 
+      2, 
+      5
+    ]
+},
+{
+  "name":"Jane",
+  "photo":"https://randomuser.me/api/portraits/women/60.jpg",
+  "scores":[
+      4, 
+      3, 
+      3, 
+      4, 
+      4,
+      1, 
+      3, 
+      2, 
+      1, 
+      5
+    ]
+},
+{
+  "name":"Ben",
+  "photo":"https://randomuser.me/api/portraits/men/84.jpg",
+  "scores":[
+      3,
+      5, 
+      2, 
+      3, 
+      4,
+      4, 
+      1, 
+      5, 
+      3, 
+      5
+    ]
+},
+{
+  "name":"Ashley",
+  "photo":"https://randomuser.me/api/portraits/women/68.jpg",
+  "scores":[
+      4, 
+      4, 
+      4, 
+      3,
+      2,
+      5, 
+      5, 
+      2, 
+      1, 
+      2
+    ]
+},
+{
+  "name":"Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
+{
+  "name":"Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
+{
+  "name":"Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
+{
+  "name":"Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
+},
+{
+  "name":"Ahmed",
+  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "scores":[
+      5,
+      1,
+      4,
+      4,
+      5,
+      1,
+      2,
+      5,
+      4,
+      1
+    ]
 }
+];
 
-module.exports = Friend;
+module.exports = friends;

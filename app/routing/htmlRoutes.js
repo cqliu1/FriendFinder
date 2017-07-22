@@ -1,9 +1,11 @@
+const path = require("path");
+
 // display home page
-app.get("/", function(req, res) {
+exports.loadHome = function(req, res) {
 	res.sendFile(path.join(__dirname, "../public/home.html"));
-});
+};
 
 // display survey
-app.get("/survey", function(req, res) {
+exports.loadSurvey = function(req, res) {
 	res.sendFile(path.join(__dirname, "../public/survey.html"));
-});
+};

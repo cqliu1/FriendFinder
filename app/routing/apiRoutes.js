@@ -1,11 +1,12 @@
-var Friend = require("../data/friends");
+const friends = require("../data/friends")
 
-// display home page
-app.get("/api/friends", function(req, res) {
+// display all friends
+exports.getAllFriends = function(req, res) {
 	// display all possible friends
-});
+	res.json(friends);
+};
 
-// display survey
-app.post("/api/friends", function(req, res) {
-	// store survey answers
-});
+// store friend data
+exports.addNewFriend = function(req, res) {
+	// store new friend and survey answers
+};
